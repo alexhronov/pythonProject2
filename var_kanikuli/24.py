@@ -1,6 +1,6 @@
 a = open("24.txt").readline()
-sogl = 'ABCD'
-gl = 'O'
+sogl = 'BCD'
+gl = 'AO'
 k, b = 0, []
 
 for i in range(1, len(a) - 1, 2):
